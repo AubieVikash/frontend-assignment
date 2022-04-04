@@ -1,0 +1,278 @@
+body {
+  font-family: "Mulish", "Courier New", Courier, monospace;
+}
+
+.box-cont {
+  margin-top: 56px;
+  margin-left: 240px;
+  margin-right: 190px;
+}
+
+.container-fluid a {
+  text-decoration: none;
+}
+
+.brandLogo {
+  color: #233348;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 30px;
+}
+
+#logo {
+  background: #458ff6;
+  color: white;
+  margin-right: 12px;
+  font-style: normal;
+  font-size: 26px;
+  font-weight: 700;
+  padding: 5px 13px 4px 13px;
+  border-radius: 25px;
+}
+
+.navbar-nav {
+  margin-right: 192px;
+}
+
+.collapse a {
+  margin-left: 40px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  color: #233348;
+  opacity: 0.5;
+}
+
+.container {
+  margin-top: 80px;
+  margin-left: 30px;
+  justify-items: left;
+}
+
+.col-content {
+  margin: auto;
+}
+
+.section-heading {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 56px;
+  mix-blend-mode: normal;
+}
+
+.section-heading p {
+  margin-bottom: 25px;
+  margin-right: 127px;
+  width: 427px;
+}
+
+.section-para {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 21px;
+  line-height: 32px;
+  color: #7d7987;
+  mix-blend-mode: normal;
+}
+
+.section-para p {
+  margin-right: 109px;
+  width: 445px;
+  margin-bottom: 45px;
+}
+
+.button {
+  background: #458ff6;
+  border-radius: 55px;
+  font-style: normal;
+  border-radius: 55px;
+  color: #ffffff;
+}
+
+.button a {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 60px;
+  mix-blend-mode: normal;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 0px;
+}
+
+.section-2-heading {
+  display: flex;
+  justify-content: center;
+}
+
+.section-2-heading p {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 56px;
+  color: #000000;
+  mix-blend-mode: normal;
+  margin-bottom: 26px;
+}
+.section-2-para {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin: auto;
+  width: 952px;
+  margin-bottom: 80px;
+}
+
+.section-2-para p {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 30px;
+  text-align: center;
+  color: #7d7987;
+  mix-blend-mode: normal;
+}
+.section-service {
+  margin-bottom: 36px;
+}
+.services-card {
+  background-color: rgba(252, 249, 249, 0.918);
+  width: 350px;
+  height: 354px;
+  border-radius: 15px;
+}
+
+.services-card img {
+  width: 72px;
+  height: 85px;
+  margin-top: 62px;
+  margin-left: 37px;
+  margin-bottom: 20px;
+}
+
+.card-heading {
+  margin-left: 37px;
+}
+.card-heading p {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 56px;
+  color: #000000;
+  mix-blend-mode: normal;
+}
+
+.card-para {
+  margin-left: 39px;
+}
+
+.card-para p {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 28px;
+  color: #7d7987;
+  mix-blend-mode: normal;
+}
+
+.learn-more {
+  margin-bottom: 220px;
+  margin-top: 33px;
+}
+
+.btn-services {
+  background: #ffffff;
+  box-sizing: border-box;
+  color: #458ff6;
+  border: 1.4px solid #458ff6;
+  border-radius: 55px;
+  display: block;
+  margin: auto;
+}
+
+.btn-services a {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 60px;
+  color: #458ff6;
+  mix-blend-mode: normal;
+  margin: 3px 51px 1px 51px;
+}
+
+.foot-container {
+  margin: 0px;
+  padding: 0px;
+  background: linear-gradient(183.41deg, #67c3f3 -8.57%, #5a98f2 82.96%);
+}
+
+.foot-logo {
+  margin-left: 190px;
+  margin-top: 126px;
+  margin-bottom: 113px;
+}
+.foot-container a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.foot-container #logo {
+  background: white;
+  color: #458ff6;
+  margin-right: 12px;
+}
+
+.foot-about {
+  margin-top: 17px;
+  margin-bottom: 31px;
+  margin-right: 10px;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 28px;
+  color: #ffffff;
+  mix-blend-mode: normal;
+  width: 420px;
+}
+
+.copyright p {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 28px;
+  color: #ffffff;
+  mix-blend-mode: normal;
+}
+
+.foot-heading span {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 60px;
+  color: #ffffff;
+  mix-blend-mode: normal;
+}
+
+.foot-list ul {
+  list-style: none;
+  padding: 0px;
+}
+
+.foot-list li {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 38px;
+  color: #ffffff;
+  mix-blend-mode: normal;
+}
+
+.foot-adjust {
+  left: 0px;
+  margin-top: 126px;
+  margin-bottom: 113px;
+  padding-left: 60px;
+}
